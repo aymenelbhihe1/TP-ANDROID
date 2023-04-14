@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txt1" type="id" />
+    <item name="btn" type="id" />
+    <item name="ImageProfil" type="id" />
+    <item name="txtNom" type="id" />
+    <item name="edtNom" type="id" />
+    <item name="txtPrenom" type="id" />
+    <item name="edtPrenom" type="id" />
+    <item name="txtClasse" type="id" />
+    <item name="edtClasse" type="id" />
+    <item name="txtRemarque" type="id" />
+    <item name="edtRemarque" type="id" />
+</resources>

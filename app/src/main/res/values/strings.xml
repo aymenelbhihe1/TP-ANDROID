@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP1_Android</string>
+    <string name="enregistrer">ENREGISTRER</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prenom</string>
+    <string name="classe">Classe</string>
+    <string name="remarque">Remarque</string>
+</resources>
